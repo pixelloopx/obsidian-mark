@@ -1,0 +1,2 @@
+-- obsidian-mark — minimal Lua helper module
+-- Author: @pixelloopx
