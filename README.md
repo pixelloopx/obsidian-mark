@@ -1,2 +1,5 @@
 # obsidian-mark
-Lightweight Lua utilities and helpers (obsidian-mark)
+
+Lightweight `Lua` utilities maintained by @pixelloopx.
+
+- Focus: Backend engineer who enjoys writing CSS when nobody is looking.
